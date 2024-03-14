@@ -1,0 +1,11 @@
+.ConLine {
+    display: flex;
+    flex-flow: wrap;
+    width: 100%;
+  }
+  .card {
+    width: 25%;
+  }
+  .OPProgressBars, .CRTableTrack {
+    width: 50%;
+  }
